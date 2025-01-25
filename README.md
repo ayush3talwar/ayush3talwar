@@ -1,10 +1,13 @@
-- 👋 Hi, I’m @ayush3talwar
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+# 👋 Hi, I’m Ayush Talwar  
+👀 I’m interested in Data Analytics, Product Management, and Software Development.  
+🌱 I’m currently enhancing my skills in Python, SQL, and Data Visualization.  
+💞️ I’m looking to collaborate on projects that combine technical expertise with business insights to deliver impactful solutions.  
+📫 How to reach me: [Email]ayushtalwar3@gmail.com | [LinkedIn]https://www.linkedin.com/in/ayush-talwar/ 
 
-<!---
-ayush3talwar/ayush3talwar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+---
+
+🎓 **Computer Science Graduate from UMass Amherst**  
+🔧 Proficient in Python, SQL, Java, JavaScript, and C  
+📊 Strong in data analysis, collaboration, and process optimization  
+
+💡 My passion lies in bridging the gap between technology and business, streamlining processes, and delivering transformative results.  
