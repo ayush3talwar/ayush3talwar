@@ -1,5 +1,5 @@
 # 👋 Hi, I’m Ayush Talwar  
-👀 I’m interested in Data Analytics, Product Management, and Software Development.  
+👀 I’m interested in Data Analytics and Product Management Roles.  
 🌱 I’m currently enhancing my skills in Python, SQL, and Data Visualization.  
 💞️ I’m looking to collaborate on projects that combine technical expertise with business insights to deliver impactful solutions.  
 📫 How to reach me: [Email]ayushtalwar3@gmail.com | [LinkedIn]https://www.linkedin.com/in/ayush-talwar/ 
